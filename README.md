@@ -4,3 +4,6 @@
 > Algorithm to find number of pairs
 ### Repeating String
 ### Counting Valleys
+
+## Algorithm
+### Recursion
